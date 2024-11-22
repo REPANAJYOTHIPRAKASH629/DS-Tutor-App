@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as ai
 
-ai.configure(api_key="AIzaSyB4tK6azgrb_-VQSgsNT2BW29ABjwaxJII")
+ai.configure(api_key="AIzaSyAXQ2pvBuaCGp44SaUEgWYdpE_QPNdEOP4")
 
 sys_prompt = """ You are helpful AI tutor for Data Science
                 Students will ask you doubts related to various topics in data science.
